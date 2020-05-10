@@ -13,7 +13,7 @@
 # File descriptions and links to interact with them
 
 ### [Data sets](https://www.kaggle.com/airbnb/seattle/data) : at this link you can find the datasets used for this analysis (reviews, listings and bookings calendar)
-### [Python code](https://github.com/carini93/DataScienceBlogPost/blob/master/When%20and%20where%20do%20an%20holiday%20in%20Seattle.ipynb) : at this link you can find the python created to get the insights explained in the post
+### [Python Code](https://github.com/carini93/DataScienceBlogPost/blob/master/When%20and%20where%20do%20an%20holiday%20in%20Seattle.ipynb) : at this link you can find the python code created to get the insights explained in the post
 
 # Results
 
