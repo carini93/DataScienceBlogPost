@@ -1,6 +1,6 @@
 # Airbnb project
 
-#### The aim of this project is to put in practice the CRISP-DM process for data analysis by creating a blog post on Medium related to Data Science.
+### The aim of this project is to put in practice the CRISP-DM process for data analysis by creating a blog post on Medium related to Data Science.
 
 # Installations
 
